@@ -1,0 +1,9 @@
+{
+  "name": "GangBeastsSandevistan",
+  "version_number": "0.9.0",
+  "website_url": "https://github.com/delaney470/GBModSV",
+  "description": "Local couch co-op beta: each controller has its own three-second Sandevistan and independent cooldown. Xbox PC 1.28, offline only.",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.3"
+  ]
+}
